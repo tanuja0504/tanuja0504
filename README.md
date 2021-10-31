@@ -1,0 +1,4 @@
+- 👋 Hi, I’m software professional
+- 👀 I’m interested in career development
+- 🌱 I’m currently learning cloud
+- 💞️ I’m looking to collaborate on opensource projects
